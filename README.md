@@ -88,5 +88,3 @@ Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SHAP, Joblib, and Jupy
 - Compare a leakage-safe rolling-origin evaluation with the single holdout.
 - Investigate whether station identity should be replaced with more general physical descriptors.
 
-## Attribution and license
-This checkout originated from the GitHub project [satishchauhan108/EcoCell-AI](https://github.com/satishchauhan108/EcoCell-AI). Review and retain the upstream repository's license and attribution requirements before publishing a derivative version. The original notebooks and submission artifacts are retained rather than presented as wholly original authorship.
