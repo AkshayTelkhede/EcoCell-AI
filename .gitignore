@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+results/best_model.joblib
+results/figures/*.png
+results/metrics/*.csv
+results/metrics/*.json
